@@ -8,4 +8,4 @@
       <li><a href="#">rss feed</a></li>
       <li></li>
     </ul>
-    <span>Copyright © Global Concepts Management. <a href="gcm_admin.php"><img src="images/globe.jpg"  /></a>&nbsp;&nbsp; <a href="https://email.1and1.com" target="_blank"><img src="images/mail.png" width="15" height="15" /></a>  All Rights Reserved | Developed by Silver Ibenye</span>
+    <span>Copyright © Global Concepts Management. <a href="gcm_admin.php"><img src="images/globe.jpg"  /></a>&nbsp;&nbsp; <a href="https://email.1and1.com" target="_blank"><img src="images/mail.png" width="15" height="15" /></a>  All Rights Reserved | Developed by <a href="http://www.slybase.com" target="_blank" ">Slybase Services</a></span>
