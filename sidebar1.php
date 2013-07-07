@@ -4,9 +4,9 @@
         <p><strong>United States</strong> <br/>
         1002 Upton Road <br/>
 		Glen Burnie , MD 21060 <br/>
-		Tel:  804-867-7191, 301-351-0777<br/>
-		Fax Number: 1-410--766-0177 <br/>
-		E-mail address : GCMsupport@live.com </p>
+		Tel: +1 804-867-7191, +1 541-619-9326<br/>
+		Fax Number: 1-410--766-0717 <br/>
+		E-mail address : support@glocmgt.com </p>
         
         <p><strong>United Kingdom</strong> <br/>
         Thames Innovation Centre <br/>
