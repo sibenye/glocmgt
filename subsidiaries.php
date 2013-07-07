@@ -32,7 +32,7 @@
         <h2>Subsidiaries</h2>
         <div class="line"></div>
         <img src="images/serv.jpg" alt="picture" width="78" height="78" />
-        <h2>New Infotech Consultants</h2>
+        <h2>New Infotech Consultants (NITECH)</h2>
         <p>New Infotech Consultants is the division of Global Concepts Management that handles Information Technology Management and Development for its clients. They are concerned with exploring and understanding the information technology needs of our clients. Also using Information Technology as a corporate resource that determines both the strategic and operational capabilities of a firm, in designing and developing products and services for maximum customer satisfaction, corporate productivity, profitability and competitiveness in the market place.
         <br/>
         This division of the company is specialized with IT infrastructure and Database Management Systems. We are committed to providing our clients with automation and fully computerization of departments, divisions or entire organizations. Our dedicated team and affiliates are highly trained IT professionals with a total of over fifteen years experience.
