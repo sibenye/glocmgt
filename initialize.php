@@ -24,14 +24,19 @@ include('helper_fns.php');
 			$title = 'GCM - About Us';
 			
 	   break;
+	   
+	   case "subsidiaries":
+	  		$class3 = 'active';	
+			$title = 'GCM - Subsidiaries';
+	  break;
 	  
 	  case "services":
-	  		$class3 = 'active';	
+	  		$class4 = 'active';	
 			$title = 'GCM - Services';
 	  break;
 	  
 	  case "gallery":
-	  		$class4 = 'active';	
+	  		$class5 = 'active';	
 			$title = 'GCM - Gallery';
 			$GalleryID = $_REQUEST['GalleryID'];
 			include 'gallery_table.class.php';
@@ -41,12 +46,12 @@ include('helper_fns.php');
 	  break;
 	  
 	  case "contact":
-	  		$class5 = 'active';	
+	  		$class6 = 'active';	
 			$title = 'GCM - Contact';
 	  break;
 	  
 	  case "portfolio":
-	  		$class6 = 'active';	
+	  		$class7 = 'active';	
 			$title = 'GCM - Portfolio';
 	  break;
 	  
